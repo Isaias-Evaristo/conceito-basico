@@ -4,7 +4,7 @@ Iniciando nesse mundo maravilhoso da tecnologia que vem a cada dia sendo mais de
 
 Aqui, embora seja o começo de todo o meu progresso, sou **pragmático**, gosto da prática e sou admirador da blockchain, pois ela já é o presente. Logo, apresento os conceitos da programação que de fato são necessários para destrinchar o raciocínio — embora a base de verdade seja a matemática, aqui já entramos na lógica humana.
 
-Inicio a minha jornada com essas transições de consolidação dos fundamentos de lógica de programação utilizando o "velho" Visualg.
+Inicio a minha jornada com essas transições de consolidação dos fundamentos de lógica de programação.
 
 ## 📂 Estrutura de Estudos
 
