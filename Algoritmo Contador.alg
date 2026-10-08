@@ -3,14 +3,17 @@ Algoritmo "Contador"
 
 Var
 
-   Contador: Inteiro
-   
-
+  Contador: Inteiro
+  
 Inicio
 
-   Para Contador de 1 Ate 3 faca
-   
-   Escreval("Esta mensagem será Repetida!")
-   Fimpara
-   
+     Contador <- 10
+     Enquanto (Contador > 0) Faca
+     
+          Escreval("O valor é: ", Contador)
+          
+          Contador <- Contador - 1
+          
+     Fimenquanto
+     
 Fimalgoritmo
